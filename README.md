@@ -2,6 +2,9 @@
 
 이 프로젝트는 트위터(현재 X)에서 특정 트윗을 리트윗한 사용자들의 데이터를 수집하고, 그 목록에서 무작위로 당첨자를 추첨하는 파이썬 스크립트들로 구성되어 있습니다.
 
+## 코드 제작과정
+[![Video Label](https://i.ytimg.com/vi/fnw0Nd8TTmU/0.jpg)](https://www.youtube.com/watch?v=fnw0Nd8TTmU)
+
 ## 프로젝트 파일 구성
 
 이 프로젝트는 크게 세 가지 파이썬 스크립트로 구성됩니다.
