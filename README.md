@@ -1,4 +1,4 @@
-# 트위터(X) 리트윗 사용자 데이터 수집 및 당첨자 추첨 프로그램
+# TweetRetweetPicker
 
 이 프로젝트는 트위터(현재 X)에서 특정 트윗을 리트윗한 사용자들의 데이터를 수집하고, 그 목록에서 무작위로 당첨자를 추첨하는 파이썬 스크립트들로 구성되어 있습니다.
 
@@ -111,7 +111,7 @@
 
 아울러 오픈 채팅방을 통해 도움을 받으실 수 있습니다.
 
-[**요즘 챗GPT로 뭐하세요? : 챗GPT와 함께하는 실전 업무 자동화**](https://search.shopping.naver.com/book/catalog/53074830698?cat_id=50010702&frm=PBOKPRO&query=%EC%86%A1%EC%9A%94%EC%B0%BD&NaPm=ct%3Dm7u5rfsg%7Cci%3D8f5ca1839645e9f84c834e3ed37501b72cfb1638%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D20ea94c2725d723f05610deb8468f5cc05a4066b)
+[**정말 쉽네? 챗GPT 구글 업무 자동화**](https://search.shopping.naver.com/book/catalog/53074830698?cat_id=50010702&frm=PBOKPRO&query=%EC%86%A1%EC%9A%94%EC%B0%BD&NaPm=ct%3Dm7u5rfsg%7Cci%3D8f5ca1839645e9f84c834e3ed37501b72cfb1638%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D20ea94c2725d723f05610deb8468f5cc05a4066b)
 
 ## 면책 조항
 
